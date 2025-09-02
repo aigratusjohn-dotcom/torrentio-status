@@ -13,12 +13,6 @@ notifications:
 status-website:
   name: Torrentio Status
 
-permissions:
-  contents: write
-  pull-requests: write
-  issues: write
-  actions: write
-
 workflowSchedule:
   graphs: "0 0 * * *"
   static-site: "0 1 * * *"
