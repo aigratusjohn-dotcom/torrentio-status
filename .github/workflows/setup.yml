@@ -15,6 +15,11 @@
 
 
 name: Setup CI
+# Add this block right below the 'name' line
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
 on:
   push:
     paths:
