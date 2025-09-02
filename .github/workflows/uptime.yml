@@ -14,9 +14,9 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 permissions:
   contents: write
-  pull-requests: write
   issues: write
-  workflows: write
+  pull-requests: write
+  actions: write
 
 name: Uptime CI
 on:
