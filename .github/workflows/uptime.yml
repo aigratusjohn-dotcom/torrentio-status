@@ -12,7 +12,11 @@
 # * Source: https://github.com/upptime/upptime
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
-
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  workflows: write
 
 name: Uptime CI
 on:
