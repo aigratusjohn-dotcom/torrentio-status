@@ -3,8 +3,8 @@ repo: torrentio-status
 
 sites:
   - name: Torrentio Manifest
-    url: https://does-not-exist-1234567890.com
-
+    url: https://torrentio.strem.fun/manifest.json
+    
 notifications:
   - type: telegram
     botToken: $TELEGRAM_BOT_TOKEN
