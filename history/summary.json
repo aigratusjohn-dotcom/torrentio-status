@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrentio.strem.fun.ico",
     "slug": "torrentio-manifest",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
-    "dailyMinutesDown": {}
+    "uptime": "97.96%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
+    "time": 150,
+    "timeDay": 150,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2025-09-02": 25
+    }
   }
 ]
